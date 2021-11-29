@@ -1,2 +1,3 @@
 # Project exclude paths
 /webflux3_1/target/
+.idea
