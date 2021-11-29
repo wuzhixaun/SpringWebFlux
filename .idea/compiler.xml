@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="webflux6.2" />
         <module name="webflux3_1" />
         <module name="webflux6_1_4" />
       </profile>
